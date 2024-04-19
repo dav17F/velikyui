@@ -1,0 +1,14 @@
+html {
+  background-image: url(https://wallpaperswide.com/download/funny_ostriches-wallpaper-1920x1200.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: cyan;
+}
